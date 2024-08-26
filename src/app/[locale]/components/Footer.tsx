@@ -9,7 +9,7 @@ export const Footer = () => {
       <div className="container mx-auto px-4 flex flex-col items-center md:flex-row md:justify-between">
         <div className="text-center md:text-left">
           <h2 className="text-2xl font-semibold mb-2">
-            {t('Contact')}  
+            {t('Contact_Us')}  
           </h2>
           <p className="mb-2">
             {t('Address')}
