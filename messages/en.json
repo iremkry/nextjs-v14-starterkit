@@ -19,5 +19,10 @@
   "A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app": "A rich, incredibly adoptable template that scales between a small showcase website and a full-size app.",
   "This_is_a_simple_about_page_just_to_show_how_you_can_use_the_internationalization_in_different_pages": "about içerik",
   "222This_is_a_simple_about_page_just_to_show_how_you_can_use_the_internationalization_in_different_pages": "support içerik",
-  "Performant": "Performant"
+  "Performant": "Performant",
+  "Contact": "Contact Us",
+  "Address": "30 Agustos St. No: 13, Dap Dalga Towers B blok 169 Kartal, Istanbul, Turkey", 
+  "Phone": "0 532 230 59 35",
+  "Email": "emre.serit@grondtech.com",
+  "Rights": "All rights reserved."
 }

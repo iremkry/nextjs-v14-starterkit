@@ -26,8 +26,8 @@ const space_grotesk = Space_Grotesk({
   display: 'swap'
 })
 export const metadata: Metadata = {
-  title: 'Next Temp',
-  description: 'create next app By Yahya Parvar!'
+  title: 'Grond Machines',
+  description: 'created by İrem Erim!'
 }
 
 export default function RootLayout({
