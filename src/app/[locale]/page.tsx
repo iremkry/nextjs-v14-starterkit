@@ -22,7 +22,7 @@ export default function DashboardPage() {
         </div>
         <div className='mt-4 flex flex-row gap-4'>
           <a
-            href='https://github.com/new?template_name=nextjs-template&template_owner=yahyaparvar'
+            href='https://emreserit.vercel.app/en'
             target='_blank'
           >
             <Button rounded size='large'>
@@ -30,7 +30,7 @@ export default function DashboardPage() {
             </Button>
           </a>
           <a
-            href='https://github.com/yahyaparvar/nextjs-template'
+            href='https://emreserit.vercel.app/en'
             target='_blank'
           >
             <Button rounded size='large' variant='secondary'>
