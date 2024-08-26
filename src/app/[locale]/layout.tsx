@@ -12,15 +12,18 @@ import './globals.css'
 
 const inter = Inter({
   subsets: ['latin'],
-  variable: '--inter'
+  variable: '--inter',
+  display: 'swap'
 })
 const rubik = Rubik({
   subsets: ['arabic'],
-  variable: '--rubik'
+  variable: '--rubik',
+  display: 'swap'
 })
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
-  variable: '--font-space-grotesk'
+  variable: '--font-space-grotesk',
+  display: 'swap'
 })
 export const metadata: Metadata = {
   title: 'Next Temp',

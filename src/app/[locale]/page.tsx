@@ -7,12 +7,12 @@ export default function DashboardPage() {
     <div>
       <section className='flex flex-col items-center justify-center py-24'>
         <h1 className='text-center text-7xl font-extrabold leading-tight'>
-          {t('An')}{' '}
+          {t('Grond')}{' '}
           <span className='bg-span-bg bg-clip-text text-transparent'>
-            {t('Booster')}
+            {t('Machines')}
           </span>
           <br />
-          {t('to_Your_NextJS_Apps')}
+          {t('Emre_Serit')}
         </h1>
         <div className='my-6 px-20 text-center text-2xl text-text-secondary'>
           {t(
@@ -25,7 +25,7 @@ export default function DashboardPage() {
             target='_blank'
           >
             <Button rounded size='large'>
-              {t('Use_Template')}
+              {t('Products')}
             </Button>
           </a>
           <a
@@ -38,7 +38,7 @@ export default function DashboardPage() {
           </a>
         </div>
       </section>
-      <section className='bg-background-secondary py-20 max-lg:py-10'>
+      {/* <section className='bg-background-secondary py-20 max-lg:py-10'>
         <div className='mx-auto grid max-w-screen-lg grid-cols-3 gap-7 px-8 py-5 max-lg:max-w-fit max-lg:grid-cols-1 max-lg:gap-10'>
           <div className='text-center'>
             <h2 className='mb-3  text-xl font-semibold'>{t('Approachable')}</h2>
@@ -65,7 +65,7 @@ export default function DashboardPage() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   )
 }
